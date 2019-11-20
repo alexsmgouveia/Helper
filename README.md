@@ -207,5 +207,7 @@ var result = EnumUtil.GetDescription<EnumValue>(EnumValue.FooBar.ToString());
 // result =>"3ª name"
 ```
 
+------------
+
 ## Report Support
 To report errors, questions and suggestions go to the [link](https://www.nuget.org/packages/PESALEXMapper.Helper/1.0.0/ReportMyPackage)
